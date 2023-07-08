@@ -60,18 +60,4 @@ public class DiaChi {
         this.setDuongPho(diaChiVM.getDuongPho());
         this.setKhachHang(diaChiVM.getKhachHang());
     }
-
-    @Override
-    public String toString() {
-        return "DiaChi{" +
-                "maDiaChi=" + maDiaChi +
-                ", tenDiaChi='" + tenDiaChi + '\'' +
-                ", moTaChiTiet='" + moTaChiTiet + '\'' +
-                ", tinhThanhPho='" + tinhThanhPho + '\'' +
-                ", quanHuyen='" + quanHuyen + '\'' +
-                ", phuongXa='" + phuongXa + '\'' +
-                ", duongPho='" + duongPho + '\'' +
-                ", khachHang=" + khachHang +
-                '}';
-    }
 }

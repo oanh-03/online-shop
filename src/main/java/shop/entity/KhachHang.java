@@ -66,29 +66,5 @@ public class KhachHang {
     public void setGioiTinh(Boolean gioiTinh) {
         this.gioiTinh = gioiTinh;
     }
-    //    @Temporal(TemporalType.DATE)
-//    @DateTimeFormat(pattern = "dd/MM/yyyy")
-//    @Column(name = "SinhNhat")
-//    private Date sinhNhat;
-//
-//    @Column(name = "Email", unique = true)
-//    private String email;
-//
-//
-//    @Column(name = "ChungMinhThu", unique = true)
-//    private String chungMinhThu;
-//
-//    @Column(name = "SoCanCuoc", unique = true)
-//    private String soCanCuoc;
-//
-//    @Column(name = "AnhDaiDien")
-//    private String anhDaiDien;
-//
-//    @Column(name = "TrangThai")
-//    private Integer trangThai;
-//
-//    @Column(name = "DiemTichLuy", columnDefinition = "INT DEFAULT 0")
-//    private Integer diemTichLuy;
-
 
 }
