@@ -21,9 +21,11 @@ import java.sql.Date;
 import java.util.UUID;
 
 @Entity
-@Table(name="GioHang")
-@Getter @Setter
-@NoArgsConstructor @AllArgsConstructor
+@Table(name = "GioHang")
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 
 public class GioHang {
     @Id
